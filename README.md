@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Temmytechguy
-- 👀 I’m interested in python, java enterprise software development and cloud computing
-- 🌱 I’m currently learning AWS, Azure, IBM Cloud
+- 👀 I’m interested in java enterprise software development, Python, JavaScript and cloud computing
+- 🌱 AWS, Azure, IBM Cloud
 - 💞️ I’m looking to collaborate on microservices project
 - 📫 How to reach me ...follow the cloud @Temmytechguy
 
